@@ -17,7 +17,6 @@ Sistem ini dirancang untuk menyelesaikan masalah *lag* atau *delay* pada sistem 
 ## Simulasi Wokwi
 Kode ini dapat dijalankan langsung menggunakan simulator Wokwi dengan pustaka eksternal `FreeRTOS` dan `LiquidCrystal I2C`.
 
-## Laporan Langkah Pembuatan & Penjelasan Kode
 
 
 https://github.com/user-attachments/assets/2c4bb648-f36b-44c4-ba17-bb379f9a45b1
